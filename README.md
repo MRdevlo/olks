@@ -15,6 +15,5 @@
 You need curl to post the hash(sha1 hash) value from your software and the license key to the server the postfields are "key" for the license key and "hash" for the hash(sha1 hash) from your software
 #Features coming soon 
 
--dll to include in your software projekte  (work in progress)
-
--support for other Databases 
+- dll to include in your software projekte  (work in progress)
+- support for other Databases 
